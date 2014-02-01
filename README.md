@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ReBootWP
 =============
 
@@ -18,3 +19,7 @@ Contributing
 
 Want to contribute? Feel free to send a pull request.
 
+=======
+rebootwp
+========
+>>>>>>> 76fe8db5a729bb3235a11c16bc729744c79ee123
