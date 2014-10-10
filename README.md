@@ -8,9 +8,9 @@ Contents
 
 The following scripts, styles, and frameworks are included in the package. You can add and remove any of them.
 
-* Bootstrap v3.0.3
-* FontAwesome v4.0.3
-* jQuery v1.10.2
+* Bootstrap v3.2.0
+* FontAwesome v4.2.0
+* jQuery v2.1.1
 
 
 Contributing
