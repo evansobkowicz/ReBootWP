@@ -9,7 +9,7 @@
 
     <!-- JavaScript
     ================================================== -->
-    <script src="<?php echo get_stylesheet_directory_uri(); ?>/assets/js/jquery-2.1.1.min.js"></script>
+    <script src="<?php echo get_stylesheet_directory_uri(); ?>/assets/js/jquery-2.1.3.min.js"></script>
     <script src="<?php echo get_stylesheet_directory_uri(); ?>/assets/js/bootstrap.min.js"></script>
     <script src="<?php echo get_stylesheet_directory_uri(); ?>/assets/js/reboot.js"></script>
 
